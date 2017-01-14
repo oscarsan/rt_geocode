@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MTK - http://www.toursprung.com" version="1.1"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+   <metadata>
+      <name><![CDATA[TR Oulu 2017 Day 1]]></name>
+
+   </metadata>
+
+      <trk><name><![CDATA[TR Oulu 2017 Day 1]]></name><trkseg>
+         <trkpt lat="53.86742" lon="10.67797"><ele>3</ele></trkpt>
+<trkpt lat="53.86742" lon="10.6774"><ele>3</ele></trkpt>
+<trkpt lat="53.86718" lon="10.67739"><ele>3</ele></trkpt>
+<trkpt lat="53.86718" lon="10.67723"><ele>3</ele></trkpt>
+<trkpt lat="53.86646" lon="10.67716"><ele>3</ele></trkpt>
+<trkpt lat="53.8663" lon="10.67666"><ele>4</ele></trkpt>
+<trkpt lat="53.86623" lon="10.67607"><ele>4</ele></trkpt>
+<trkpt lat="53.86633" lon="10.67492"><ele>4</ele></trkpt>
+<trkpt lat="53.86639" lon="10.67479"><ele>4</ele></trkpt>
+<trkpt lat="53.86636" lon="10.67452"><ele>5</ele></trkpt>
+<trkpt lat="53.86627" lon="10.67442"><ele>5</ele></trkpt>
+<trkpt lat="53.86613" lon="10.67445"><ele>5</ele></trkpt>
+<trkpt lat="53.86606" lon="10.67455"><ele>6</ele></trkpt>
+<trkpt lat="53.8657" lon="10.67455"><ele>6</ele></trkpt>
+<trkpt lat="53.86554" lon="10.67442"><ele>7</ele></trkpt>
+<trkpt lat="53.8627" lon="10.67355"><ele>7</ele></trkpt>
+<trkpt lat="53.86261" lon="10.67345"><ele>7</ele></trkpt>
+<trkpt lat="53.86126" lon="10.67308"><ele>7</ele></trkpt>
+<trkpt lat="53.85879" lon="10.67133"><ele>10</ele></trkpt>
+<trkpt lat="52.90479" lon="9.61707"><ele>56</ele></trkpt>
+<trkpt lat="52.90123" lon="9.61586"><ele>56</ele></trkpt>
+<trkpt lat="52.90127" lon="9.61573"><ele>56</ele></trkpt>
+<trkpt lat="52.89987" lon="9.61499"><ele>53</ele></trkpt>
+<trkpt lat="52.89827" lon="9.61355"><ele>52</ele></trkpt>
+<trkpt lat="52.89822" lon="9.60699"><ele>56</ele></trkpt>
+<trkpt lat="52.89969" lon="9.60099"><ele>59</ele></trkpt>
+<trkpt lat="52.89978" lon="9.60032"><ele>58</ele></trkpt>
+<trkpt lat="52.89979" lon="9.59972"><ele>58</ele></trkpt>
+<trkpt lat="52.89896" lon="9.59198"><ele>60</ele></trkpt>
+<trkpt lat="52.89745" lon="9.58889"><ele>59</ele></trkpt>
+<trkpt lat="52.89749" lon="9.58883"><ele>58</ele></trkpt>
+      </trkseg></trk>
+
+</gpx>
